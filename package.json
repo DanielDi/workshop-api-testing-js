@@ -1,0 +1,28 @@
+{
+  "name": "workshop-api-testing",
+  "version": "1.0.0",
+  "description": "This is a Workshopabout Api Testing in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielDi/workshop-api-testing-js.git"
+  },
+  "keywords": [
+    "aí-testing",
+    "dojo",
+    "practice"
+  ],
+  "author": "Daniel <despinalm@unal.edu.co> (DanielDi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielDi/workshop-api-testing-js/issues"
+  },
+  "homepage": "https://github.com/DanielDi/workshop-api-testing-js#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
